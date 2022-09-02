@@ -156,7 +156,7 @@
 % Exemplo
 \newenvironment{Exemplo}
 {
-	
+	\noindent%	
 	\tabularx{\textwidth}{XX}
 	%    {@{\extracolsep{\fill}}|l|l|}
 	%    {|l|l@{\extracolsep{\fill}|}}
